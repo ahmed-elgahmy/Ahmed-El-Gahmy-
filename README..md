@@ -13,7 +13,6 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 - 👨‍💻 Software Engineer specialized in **Microsoft Business Applications** (Power Platform & Dynamics 365)
 - ⚡ I work across the full stack of the platform: **Dataverse** data modeling & security, **Model-Driven Apps**, **C# Plugins**, **JavaScript Client API**, **Power Automate**, and **Copilot Studio** AI agents
 - 🔧 Pro-code side: **C# / .NET**, **TypeScript**, **React**, **PCF controls**, and **Azure** integrations (Functions, Service Bus, Key Vault)
-- 🏗️ Building an evolving portfolio project: **Enterprise Insurance Management Platform** — one product that grows with every skill I master
 - 🎓 Graduated from the Faculty of Business, BIS Department, Alexandria University
 - 📜 Working through the Microsoft certification path: `PL-200` → `PL-400` → `PL-600`
 - 🤓 Always learning new things — currently going deep on enterprise plugins, ALM/DevOps, and AI agents
