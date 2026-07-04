@@ -4,11 +4,18 @@
 
 I build enterprise business applications on Microsoft Power Platform & Dynamics 365 — Dataverse, Model-Driven Apps, C# Plugins, PCF, and Azure integrations. Currently leveling up toward **Power Platform Solution Architect**.
 
+> 📌 **Note:** This is my new GitHub account. My older projects live on my previous account, which I can no longer access — feel free to browse them here: [github.com/ahmed-elgihamy](https://github.com/ahmed-elgihamy)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&width=700&repeat=true&lines=Power+Platform+%2B+Dynamics+365+Developer;Dataverse+%7C+Plugins+%7C+PCF+%7C+Copilot+Studio;Building+Enterprise+Business+Applications;From+Pro-Code+to+Solution+Architecture;Always+Learning%2C+Always+Building)
 
+<img width="17%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>
 
-## 🧑‍💻 About me
+## <img src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/about_me.gif?raw=true" width="6.5%"> About me
+
+<img align="right" src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/Right_Side.gif?raw=true" width="30%">
+
+<br>
 
 - 👨‍💻 Software Engineer specialized in **Microsoft Business Applications** (Power Platform & Dynamics 365)
 - ⚡ I work across the full stack of the platform: **Dataverse** data modeling & security, **Model-Driven Apps**, **C# Plugins**, **JavaScript Client API**, **Power Automate**, and **Copilot Studio** AI agents
@@ -20,7 +27,7 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 
 <br>
 
-## 📫 Connect with me
+## <img src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 
 <p align="center">
 	<a href="mailto:ahmed.mahmoud.elghamy@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -32,9 +39,9 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 
 <br>
 
-## 🛠️ My Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> My Skills
 
-### ⚡ Power Platform & Dynamics 365
+### <img src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/Software_Tools.gif?raw=true" width="5%"> Power Platform & Dynamics 365
 
 <p align="center">
 	<img alt="Power Apps" src="https://img.shields.io/badge/Power_Apps-%23742774.svg?style=plastic">
@@ -56,7 +63,7 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 	<img alt="Dynamics 365" src="https://img.shields.io/badge/Dynamics_365-%23002050.svg?style=plastic">
 </p>
 
-### 💻 Programming Languages
+### <img src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/Programming_Languages.gif?raw=true" width="5%"> Programming Languages
 
 <p align="center">
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -80,7 +87,7 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 	</a>
 </p>
 
-### 🎨 Frontend Development
+### <img src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/Front_End.gif?raw=true" width="5%"> Frontend Development
 
 <p align="center">
 	<a href="https://react.dev/" target="_blank">
@@ -116,7 +123,7 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 	</a>
 </p>
 
-### ⚙️ Backend Development
+### <img src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/Front_End.gif?raw=true" width="5%"> Backend Development
 
 <p align="center">
 	<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
@@ -152,7 +159,7 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 	</a>
 </p>
 
-### ☁️ Azure & DevOps
+### <img src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/Software_Tools.gif?raw=true" width="5%"> Azure & DevOps
 
 <p align="center">
 	<img alt="Azure Functions" src="https://img.shields.io/badge/Azure_Functions-%230062AD.svg?style=plastic">
@@ -168,7 +175,7 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 	<img alt="Key Vault" src="https://img.shields.io/badge/Key_Vault_%26_Managed_Identity-%23512BD4.svg?style=plastic">
 </p>
 
-### 🧩 Competitive Programming & Problem Solving
+### <img src="https://github.com/ahmed-elgahmy/ahmed-elgahmy/blob/main/Images/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
 
 <p align="center">
 	<a href="https://codeforces.com/" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>
@@ -178,11 +185,20 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 
 <br>
 
+## 🚀 Featured Project
+
+**🏢 Enterprise Insurance Management Platform** *(in progress — growing feature by feature)*
+
+A full enterprise-grade Microsoft Business Application built end-to-end: Dataverse data model & security → Model-Driven CRM → C# Plugin engines (Approval / Notification / Audit) → Copilot Studio AI agents → PCF controls → Azure integrations → full ALM with CI/CD.
+
+<br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=ahmed-elgahmy&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+	<img src="https://github-readme-stats.vercel.app/api?username=ahmed-elgahmy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+	&nbsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elgahmy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
